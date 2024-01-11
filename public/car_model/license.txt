@@ -1,11 +1,11 @@
 Model Information:
-* title:	Porsche 911 GT2 RS With Angle Eyes
-* source:	https://sketchfab.com/3d-models/porsche-911-gt2-rs-with-angle-eyes-41419345868e406eaec8a271e33de3c1
-* author:	COOL601 (https://sketchfab.com/COOL601)
+* title:	Porsche 911 GT2 RS Weissach 2018
+* source:	https://sketchfab.com/3d-models/porsche-911-gt2-rs-weissach-2018-35d042abed2741899acbb6f538529734
+* author:	Hikan (https://sketchfab.com/cerd1232)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Porsche 911 GT2 RS With Angle Eyes" (https://sketchfab.com/3d-models/porsche-911-gt2-rs-with-angle-eyes-41419345868e406eaec8a271e33de3c1) by COOL601 (https://sketchfab.com/COOL601) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Porsche 911 GT2 RS Weissach 2018" (https://sketchfab.com/3d-models/porsche-911-gt2-rs-weissach-2018-35d042abed2741899acbb6f538529734) by Hikan (https://sketchfab.com/cerd1232) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
