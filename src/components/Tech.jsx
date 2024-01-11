@@ -15,7 +15,7 @@ const Tech = () => {
           What I use frequently
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-          Technology.
+          Technologies.
         </h2>
       </motion.div>
     <div className='flex flex-row flex-wrap justify-center gap-10'>
