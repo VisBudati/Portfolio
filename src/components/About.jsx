@@ -49,7 +49,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] 
         max-w-3xl leading-[30px]"
       >
-      I'm a skilled Data Scienctist with experience using Python, R, SQL. 
+      I'm a skilled Data Scientist with experience using Python, R, SQL. 
       I have extensive knowledge on NLP, NN, and forecast models. I also have experince with 
       C++. C#, frameworks like React, Node.js, and Three.js. 
       I am a quick learner and often work closely with others to create 
