@@ -41,8 +41,8 @@ const Hero = () => {
             </p>
         </div>
       </div>
-      <ComputersCanvas />
-      <div style={{ bottom: '20px' }} className='absolute xs:bottom-10 bottom-30 w-full flex justify-center items-center'>
+      <ComputersCanvas/>
+      <div style={{ bottom: '-350px' }} className='absolute xs:bottom-10 bottom-30 h-full w-full flex justify-center items-center'>
         <a href='#about'>
           <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
             <motion.div
