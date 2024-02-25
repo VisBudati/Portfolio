@@ -143,7 +143,7 @@ import {
   
   const experiences = [
     {
-      title: "Data Specialist",
+      title: "Software Engineer",
       company_name: "Consolidated Edison",
       icon: Coned,
       iconBg: "#383E56",
@@ -180,7 +180,7 @@ import {
       ],
     },
     {
-      title: "Department Manager",
+      title: "Manager",
       company_name: "Best Buy",
       icon: bestbuy,
       iconBg: "#E6DEDD",
