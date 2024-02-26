@@ -4,8 +4,7 @@ import { Link } from "react-router-dom";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close } from "../assets";
-import {VisitorCounter} from "./canvas";
-
+import VisitorCounter from "./canvas/visitorcounter";
 
 const Navbar = () => {
   const [active, setActive] = useState("");
@@ -32,7 +31,9 @@ const Navbar = () => {
           <span className="sm:block hidden">|  Data Scientist</span>
           </p>
         </Link>
+
         <VisitorCounter/>
+
         <ul className="list-none hidden sm:flex 
         flex-row gap-10">
           {navLinks.map((link) => (
