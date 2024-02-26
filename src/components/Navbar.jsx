@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close } from "../assets";
-import {VisitorCounter} from "./canvas/visitorcounter";
+import {VisitorCounter} from "./canvas";
 
 
 const Navbar = () => {
