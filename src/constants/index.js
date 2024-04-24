@@ -149,6 +149,7 @@ import {
       iconBg: "#383E56",
       date: "August 2022 - Present",
       points: [
+        "Spearheaded a critical application with C# using ASP.NET to help track relevant weather conditions to ensure functionality of the electrical grid."
         "Leveraged C# and Agile to create Support Ticket system boosting productivity by 70% and improved communication efficiency by 80%.",
         "Utilized Python and R to conduct Big Data analysis providing Senior Engineers with insights increasing accuracy by 50%.",
         "Using Python and Microsoft Excel/VBA reconciled data resulting in a 99% accuracy rate and mitigating potential financial risks.",
