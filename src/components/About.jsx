@@ -51,9 +51,9 @@ const About = () => {
       >
       I'm a skilled Data Scientist with experience using Python, R, SQL. 
       I have extensive knowledge on NLP, NN, and forecast models. I also have experince with 
-      C++. C#, frameworks like React, Node.js, and Three.js. 
+      C++, C#, frameworks like React, ASP.NET, and Flask. 
       I am a quick learner and often work closely with others to create 
-      effective and accurate models for various predictions. I have solved various real-world
+      effective and accurate models for various predictions. I have solved a variety of real-world
       problems and look forward to using my skills and knowledge to solve more problems.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
