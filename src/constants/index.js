@@ -142,19 +142,35 @@ import {
   ];
   
   const experiences = [
-    {
+    // {
+    //   title: "Data Scientist",
+    //   company_name: "Consolidated Edison",
+    //   icon: Coned,
+    //   iconBg: "#383E56",
+    //   date: "August 2022 - Present",
+    //   points: [
+    //     "Developed and managed advanced weather impact models using Conformal Quantile Regression (CQR) and CatBoost to predict customer outages, resulting in reduced response times and enhanced company reliability.",
+    //     "Spearheaded a critical application with C# using ASP.NET to help track relevant weather conditions to ensure functionality of the electrical grid.",
+    //     "Leveraged C# and Agile to create Support Ticket system boosting productivity by 70% and improved communication efficiency by 80%.",
+    //     "Utilized Python and R to conduct Big Data analysis providing Senior Engineers with insights increasing accuracy by 50%.",
+    //     "Using Python and Microsoft Excel/VBA reconciled data resulting in a 99% accuracy rate and mitigating potential financial risks.",
+    //     "Developed automated tracking programs using SSMS and Python reducing workload by 20% for multitasking.",
+    //   ],
+    // },
+      {
       title: "Data Scientist",
       company_name: "Consolidated Edison",
       icon: Coned,
       iconBg: "#383E56",
       date: "August 2022 - Present",
       points: [
-        "Developed and managed advanced weather impact models using Conformal Quantile Regression (CQR) and CatBoost to predict customer outages, resulting in reduced response times and enhanced company reliability.",
-        "Spearheaded a critical application with C# using ASP.NET to help track relevant weather conditions to ensure functionality of the electrical grid.",
-        "Leveraged C# and Agile to create Support Ticket system boosting productivity by 70% and improved communication efficiency by 80%.",
-        "Utilized Python and R to conduct Big Data analysis providing Senior Engineers with insights increasing accuracy by 50%.",
-        "Using Python and Microsoft Excel/VBA reconciled data resulting in a 99% accuracy rate and mitigating potential financial risks.",
-        "Developed automated tracking programs using SSMS and Python reducing workload by 20% for multitasking.",
+        "Architected and managed end-to-end data pipelines using Azure Data Factory to maintain weather impact models, ensuring high availability of predictive insights.",
+        "Developed advanced outage prediction models using Conformal Quantile Regression (CQR) and CatBoost, significantly reducing response times and enhancing grid reliability.",
+        "Engineered a critical weather-tracking application using C# and ASP.NET to monitor grid-impacting conditions in real-time.",
+        "Designed and implemented a C#-based Support Ticket system within an Agile framework, improving communication efficiency by 80% and team productivity by 70%.",
+        "Performed big data analysis using Python and R to provide Senior Engineers with actionable insights, increasing forecasting accuracy by 50%.",
+        "Automated complex data reconciliation processes with Python and VBA, achieving a 99% accuracy rate and mitigating financial risk.",
+        "Developed automated tracking programs using SSMS and Python, reducing manual workload by 20% through optimized multitasking workflows.",
       ],
     },
     {
